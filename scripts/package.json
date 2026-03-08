@@ -1,6 +1,7 @@
 {
   "name": "absensi-notif",
   "version": "1.0.0",
+  "type": "module",
   "description": "Script notifikasi WhatsApp absensi guru",
   "main": "send-notif.js",
   "dependencies": {
